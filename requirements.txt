@@ -1,0 +1,11 @@
+python-docx
+spacy
+openai
+fastapi
+uvicorn
+pdfplumber
+streamlit
+python-dotenv
+python-multipart
+pydantic
+requests
