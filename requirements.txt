@@ -1,5 +1,7 @@
 python-docx
 spacy
+transformers
+torch
 openai
 fastapi
 uvicorn
