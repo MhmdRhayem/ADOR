@@ -1,4 +1,4 @@
-# ADOR — Augmented Document Reader
+# ADOR - Augmented Document Reader
 
 Extracts financial entities from chat (.txt), term sheet (.docx), and PDF documents.
 
